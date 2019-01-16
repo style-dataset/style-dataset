@@ -1,0 +1,156 @@
+_unit_id,_created_at,_id,_started_at,_tainted,_channel,_trust,_worker_id,_country,_region,_city,_ip,age,describe_your_english_reading_skills_see_instructions_for_more_details,gender,how_often_do_you_read_for_pleasure,native_languages,please_specify_gender,what_is_the_highest_degree_or_level_of_school_you_have_completed__if_you_are_currently_enrolled_in_school_please_indicate_the_highest_degree_you_have_received,what_languages_do_you_read_for_pleasure_in
+2056055231,12/28/18 21:28,4375134512,12/28/18 21:26,FALSE,neodev,1,243,SRB,0,Krusevac,,4554,intermediate,male,a_few_times_a_month,serbian,,graduate_degree,serbian
+2056055231,12/28/18 21:32,4375151276,12/28/18 21:31,FALSE,elite,0.7,952,RUS,53,Novosibirsk,,3544,advanced,male,a_few_times_a_week,Russian,,graduate_degree,"Russian, English"
+2056055231,12/28/18 21:35,4375162457,12/28/18 21:35,FALSE,neodev,0.6,373,GRC,13,Thessaloníki,,4554,advanced,female,every_23_days,GREEK,,graduate_degree,english
+2056055231,12/28/18 21:38,4375170538,12/28/18 21:36,FALSE,neodev,0.4,717,ECU,,,,2534,intermediate,female,a_few_times_a_week,Spanish,,college_degree_or_equivalent,spanish
+2056055231,12/28/18 21:43,4375188764,12/28/18 21:36,FALSE,clixsense,0.52,964,VEN,4,Maracay,,3544,intermediate,male,every_day,ESPAÑOL,,graduate_degree,ESPAÑOL
+2056055231,12/28/18 21:47,4375205910,12/28/18 21:44,FALSE,neodev,0.4333,286,VEN,25,Caracas,,1824,intermediate,male,every_day,spanish,,college_degree_or_equivalent,spanish
+2056055231,12/28/18 21:48,4375206876,12/28/18 21:46,FALSE,neodev,0.4857,965,VEN,25,Caracas,,1824,intermediate,male,every_23_days,Spanish,,college_degree_or_equivalent,"english, german"
+2056055231,12/28/18 21:52,4375222610,12/28/18 21:50,FALSE,neodev,0.425,621,VEN,25,Caracas,,prefer_not_to_state,intermediate,male,every_day,SPANISH,,high_school_secondary_school_or_equivalent,SPANISH
+2056055231,12/28/18 21:59,4375253206,12/28/18 21:58,FALSE,neodev,0.4,42,VEN,25,Caracas,,3544,expertfluent,male,every_23_days,spanish,,college_degree_or_equivalent,spanish
+2056055231,12/28/18 22:02,4375267333,12/28/18 21:59,FALSE,neodev,0.38,582,VEN,25,Caracas,,2534,advanced,male,every_day,spanish,,high_school_secondary_school_or_equivalent,spanish/english
+2056055231,12/28/18 22:04,4375279275,12/28/18 21:59,FALSE,neodev,0.26,555,VEN,25,Caracas,,65_years_or_older,advanced,female,every_day,espanish,,college_degree_or_equivalent,"espanish, english"
+2056055231,12/28/18 22:05,4375281847,12/28/18 22:04,FALSE,neodev,0.35,600,EGY,6,Alexandria,,2534,expertfluent,male,a_few_times_a_year,arabic,,college_degree_or_equivalent,"germany , english"
+2056055231,12/28/18 22:06,4375287060,12/28/18 22:01,FALSE,elite,0.3385,456,VEN,25,Caracas,,2534,advanced,female,every_23_days,spanish,,graduate_degree,english-spanish
+2056055231,12/28/18 22:08,4375294434,12/28/18 22:05,FALSE,elite,0.3714,576,VEN,,,,3544,intermediate,male,a_few_times_a_month,Spanish,,high_school_secondary_school_or_equivalent,Spanish
+2056055231,12/28/18 22:09,4375297987,12/28/18 22:01,FALSE,neodev,0.44,575,VEN,25,Caracas,,3544,advanced,male,every_23_days,spanish,,graduate_degree,english-spanish
+2056055231,12/28/18 22:10,4375303264,12/28/18 22:01,FALSE,elite,0.3882,525,VEN,25,Caracas,,3544,advanced,female,every_23_days,spanish,,college_degree_or_equivalent,spanish and english
+2056055231,12/28/18 22:10,4375303656,12/28/18 22:05,FALSE,neodev,0.3294,577,VEN,25,Caracas,,1824,intermediate,female,a_few_times_a_week,Spanish,,college_degree_or_equivalent,Spanish
+2056055231,12/28/18 22:10,4375304744,12/28/18 22:04,FALSE,neodev,0.4333,458,VEN,,,,3544,intermediate,male,a_few_times_a_week,Spanish,,graduate_degree,Spanish
+2056055231,12/28/18 22:12,4375311759,12/28/18 22:04,FALSE,elite,0.3667,754,VEN,,,,3544,beginner,male,every_23_days,Spanish,,college_degree_or_equivalent,Spanish
+2056055231,12/28/18 22:12,4375312152,12/28/18 22:05,FALSE,elite,0.2444,578,VEN,25,Caracas,,1824,beginner,female,every_23_days,Spanish,,graduate_degree,Spanish
+2056055231,12/28/18 22:20,4375345990,12/28/18 22:18,FALSE,clixsense,0.3333,218,GRC,13,Thessaloníki,,3544,expertfluent,female,every_day,Greek,,graduate_degree,English
+2056055231,12/28/18 22:21,4375350574,12/28/18 22:19,FALSE,clixsense,0.3818,91,VEN,25,Caracas,,1824,advanced,male,a_few_times_a_week,Spanish,,graduate_degree,"Spanish, English"
+2056055231,12/28/18 22:24,4375365795,12/28/18 22:23,FALSE,clixsense,0.4,354,UKR,,,,4554,intermediate,male,every_day,Russian,,graduate_degree,Russian
+2056055231,12/28/18 22:29,4375380559,12/28/18 22:28,FALSE,neodev,0.3913,226,VEN,25,Caracas,,2534,intermediate,male,every_day,spanish,,college_degree_or_equivalent,spanish
+2056055231,12/28/18 22:30,4375381842,12/28/18 22:29,FALSE,neodev,0.384,574,VEN,,,,3544,expertfluent,male,a_few_times_a_week,spanish,,college_degree_or_equivalent,English
+2056055231,12/28/18 22:33,4375388094,12/28/18 22:32,FALSE,neodev,0.376,898,VEN,4,Maracay,,2534,advanced,male,a_few_times_a_week,spanish,,graduate_degree,spanish
+2056055231,12/28/18 22:34,4375389902,12/28/18 22:32,FALSE,neodev,0.2963,966,VEN,23,Maracaibo,,2534,prefer_not_to_state,male,every_day,español,,high_school_secondary_school_or_equivalent,español
+2056055231,12/28/18 22:53,4375420709,12/28/18 22:52,FALSE,instagc,0.3143,587,GBR,K2,Oxford,,2534,expertfluent,female,every_23_days,English,,graduate_degree,English
+2056055231,12/28/18 22:57,4375427233,12/28/18 22:55,FALSE,elite,0.3655,538,VEN,,,,3544,advanced,female,every_23_days,Spanish,,college_degree_or_equivalent,Spanish - English
+2056055231,12/28/18 23:14,4375461330,12/28/18 23:13,FALSE,neodev,0.2067,48,VEN,25,Caracas,,2534,beginner,female,a_few_times_a_month,Spanish,,high_school_secondary_school_or_equivalent,Spanish
+2056055231,12/28/18 23:19,4375470895,12/28/18 23:16,FALSE,neodev,0.3438,43,VEN,2,Anaco,,2534,expertfluent,female,every_23_days,"english, spanish",,college_degree_or_equivalent,english
+2056055231,12/28/18 23:20,4375471676,12/28/18 23:19,FALSE,instagc,0.35,629,USA,PA,Carlisle,,3544,expertfluent,female,every_day,English,,college_degree_or_equivalent,English
+2056055231,12/28/18 23:22,4375475902,12/28/18 23:16,FALSE,clixsense,0.3636,630,VEN,25,Caracas,,2534,intermediate,female,a_few_times_a_week,Spanish,,college_degree_or_equivalent,Spanish
+2056055231,12/28/18 23:29,4375485934,12/28/18 23:23,FALSE,clixsense,0.4176,591,VEN,,,,3544,intermediate,male,every_day,spanish,,graduate_degree,"spanish, english"
+2056055231,12/28/18 23:29,4375486761,12/28/18 23:19,FALSE,neodev,0.3706,603,VEN,25,Caracas,,3544,intermediate,female,a_few_times_a_week,spanish,,college_degree_or_equivalent,spanish
+2056055231,12/28/18 23:30,4375487477,12/28/18 23:28,FALSE,neodev,0.3222,644,VEN,,,,3544,beginner,male,every_day,español,,high_school_secondary_school_or_equivalent,español
+2056055231,12/28/18 23:42,4375505879,12/28/18 23:41,FALSE,neodev,0.3676,739,VEN,25,Caracas,,2534,intermediate,female,a_few_times_a_week,spanish,,graduate_degree,spanish
+2056055231,12/28/18 23:42,4375506560,12/28/18 23:41,FALSE,neodev,0.3474,967,UKR,26,Zaporozhye,,2534,intermediate,female,a_few_times_a_month,Ukraina,,graduate_degree,Ukranian
+2056055231,12/29/18 0:03,4375540728,12/28/18 23:59,FALSE,elite,0.3538,751,VEN,25,Caracas,,4554,intermediate,female,every_day,Spanish,,college_degree_or_equivalent,Spanish
+2056055231,12/29/18 0:20,4375561122,12/29/18 0:19,FALSE,neodev,0.37,83,MKD,E3,Prilep,,3544,expertfluent,male,a_few_times_a_week,Macedonian,,graduate_degree,Macedonian
+2056055231,12/29/18 0:26,4375568849,12/29/18 0:25,FALSE,neodev,0.4244,492,VEN,17,Porlamar,,2534,intermediate,male,every_day,ESPAÑOL,,college_degree_or_equivalent,ESPAÑOL
+2056055231,12/29/18 0:39,4375590179,12/29/18 0:35,FALSE,elite,0.319,3,RUS,8,Ufa,,4554,intermediate,male,every_23_days,russian,,high_school_secondary_school_or_equivalent,russian
+2056055231,12/29/18 0:41,4375592337,12/29/18 0:33,FALSE,neodev,0.386,2,VEN,25,Caracas,,2534,advanced,male,every_23_days,SPANISH,,college_degree_or_equivalent,ENGLISH-SPANISH
+2056055231,12/29/18 0:53,4375605834,12/29/18 0:44,FALSE,neodev,0.4,596,VEN,25,Caracas,,3544,intermediate,female,every_23_days,Spanish,,graduate_degree,Spanish
+2056055231,12/29/18 1:01,4375615911,12/29/18 0:57,FALSE,neodev,0.3733,616,VEN,7,Valencia,,3544,beginner,male,every_day,Spanish,,college_degree_or_equivalent,spanish
+2056055231,12/29/18 1:15,4375632582,12/29/18 1:14,FALSE,neodev,0.3826,772,VEN,25,Caracas,,4554,intermediate,male,every_23_days,spanish,,graduate_degree,spanish
+2056055231,12/29/18 1:25,4375644813,12/29/18 1:23,FALSE,neodev,0.2809,755,VEN,23,Cabimas,,4554,beginner,female,a_few_times_a_week,español,,college_degree_or_equivalent,español
+2056055231,12/29/18 1:29,4375650249,12/29/18 1:05,FALSE,neodev,0.3417,690,VEN,,,,3544,beginner,female,a_few_times_a_week,español,,college_degree_or_equivalent,español
+2056055231,12/29/18 1:56,4375687472,12/29/18 1:54,FALSE,neodev,0.4041,601,VEN,,,,2534,intermediate,female,every_23_days,Spanish,,college_degree_or_equivalent,Spanish
+2056055231,12/29/18 2:11,4375708533,12/29/18 2:09,FALSE,clixsense,0.372,705,VEN,25,Caracas,,2534,intermediate,male,every_23_days,Spanish,,high_school_secondary_school_or_equivalent,Spanish
+2056055231,12/29/18 2:43,4375763995,12/29/18 2:40,FALSE,elite,0.349,628,IND,16,Pune,,1824,advanced,male,every_23_days,English,,college_degree_or_equivalent,English
+2056055231,12/29/18 3:05,4375795358,12/29/18 3:03,FALSE,neodev,0.3308,712,VEN,13,Barquisimeto,,1824,beginner,male,every_day,Español,,college_degree_or_equivalent,Español
+2056055231,12/29/18 3:14,4375806706,12/29/18 3:12,FALSE,neodev,0.3358,803,VEN,25,Caracas,,1824,advanced,male,every_day,Spanish,,graduate_degree,"Spanish, English"
+2056055231,12/29/18 3:35,4375838315,12/29/18 3:34,FALSE,clixsense,0.3519,370,VEN,25,Caracas,,1824,intermediate,female,every_day,spanish,,graduate_degree,spanish
+2056055231,12/29/18 4:21,4375901893,12/29/18 4:20,FALSE,elite,0.4073,814,VEN,25,Caracas,,1824,intermediate,male,every_day,Spanish,,college_degree_or_equivalent,English
+2056055231,12/29/18 4:25,4375908816,12/29/18 4:14,FALSE,neodev,0.3179,598,VEN,7,Valencia,,2534,beginner,male,a_few_times_a_year,Español,,college_degree_or_equivalent,Español
+2056055231,12/29/18 4:41,4375943983,12/29/18 4:39,FALSE,clixsense,0.3649,716,IND,7,Delhi,,2534,expertfluent,male,every_day,hindi,,graduate_degree,"hindi, english"
+2056055231,12/29/18 5:08,4376009683,12/29/18 5:06,FALSE,neodev,0.4069,619,UKR,22,Ternopil,,3544,intermediate,male,a_few_times_a_week,Ukrainian,,graduate_degree,Ukrainian
+2056055231,12/29/18 5:31,4376040302,12/29/18 5:28,FALSE,elite,0.3322,557,RUS,71,Yekaterinburg,,1824,advanced,female,every_day,russian,,college_degree_or_equivalent,"russian, english, french"
+2056055231,12/29/18 6:06,4376076591,12/29/18 6:03,FALSE,clixsense,0.3767,253,IND,13,Pathanamthitta,,3544,expertfluent,male,every_day,"english, malayalam",,graduate_degree,"english, malayalam"
+2056055231,12/29/18 6:48,4376113539,12/29/18 6:47,FALSE,clixsense,0.4459,631,VNM,44,Hanoi,,2534,intermediate,male,every_day,vietnamese,,college_degree_or_equivalent,english
+2056055231,12/29/18 6:56,4376120452,12/29/18 6:54,FALSE,neodev,0.329,874,UKR,4,Dnepropetrovsk,,2534,intermediate,female,a_few_times_a_year,Ukrainian,,graduate_degree,Ukrainian
+2056055231,12/29/18 7:46,4376167256,12/29/18 7:44,FALSE,clixsense,0.3302,957,IND,9,Vadodara,,2534,expertfluent,female,every_23_days,marathi,,graduate_degree,english
+2056055231,12/29/18 8:10,4376191227,12/29/18 8:09,FALSE,elite,0.4344,293,BIH,1,Zenica,,3544,intermediate,male,every_23_days,English,,college_degree_or_equivalent,Bosnian
+2056055231,12/29/18 8:34,4376212664,12/29/18 8:30,FALSE,clixsense,0.3446,543,TUR,16,Bursa,,4554,beginner,male,every_day,turkish,,college_degree_or_equivalent,turkish
+2056055231,12/29/18 9:18,4376248443,12/29/18 9:15,FALSE,clixsense,0.303,242,SRB,,,,4554,expertfluent,female,every_day,Serbian,,graduate_degree,"Serbian, English"
+2056055231,12/29/18 9:24,4376253377,12/29/18 9:24,FALSE,clixsense,0.2746,339,BIH,1,Sarajevo,,4554,advanced,male,every_day,bosnian,,other,"bosnian, english"
+2056055231,12/29/18 9:38,4376263077,12/29/18 9:37,FALSE,elite,0.3059,89,DEU,4,Hamburg,,3544,advanced,male,a_few_times_a_week,german,,high_school_secondary_school_or_equivalent,german
+2056055231,12/29/18 9:40,4376264788,12/29/18 9:38,FALSE,neodev,0.342,289,VEN,7,Valencia,,5564,intermediate,female,every_day,Español,,college_degree_or_equivalent,Español
+2056055231,12/29/18 10:12,4376295473,12/29/18 10:12,FALSE,neodev,0.4143,668,PAK,4,Lahore,,2534,intermediate,male,every_23_days,Urdu,,graduate_degree,English
+2056055231,12/29/18 10:14,4376296902,12/29/18 10:13,FALSE,neodev,0.3634,586,PAK,4,Lahore,,3544,advanced,male,a_few_times_a_week,Sariki,,graduate_degree,English
+2056055231,12/29/18 10:25,4376304931,12/29/18 10:23,FALSE,neodev,0.3167,813,ESP,29,Madrid,,4554,expertfluent,female,every_day,Spanish,,college_degree_or_equivalent,Spanish or English
+2056055231,12/29/18 11:04,4376341639,12/29/18 11:02,FALSE,elite,0.3534,764,VEN,23,Ciudad Ojeda,,3544,beginner,female,every_day,spanish,,college_degree_or_equivalent,spanish
+2056055231,12/29/18 11:07,4376343771,12/29/18 11:07,FALSE,clixsense,0.3243,698,VEN,23,Ciudad Ojeda,,4554,beginner,female,every_day,spanish,,college_degree_or_equivalent,spanish
+2056055231,12/29/18 11:09,4376345214,12/29/18 11:08,FALSE,clixsense,0.328,810,VEN,23,Ciudad Ojeda,,4554,beginner,male,a_few_times_a_week,spanish,,college_degree_or_equivalent,spanish
+2056055231,12/29/18 11:46,4376376419,12/29/18 11:44,FALSE,neodev,0.3395,968,VEN,23,Ciudad Ojeda,,2534,beginner,female,every_23_days,spanol,,college_degree_or_equivalent,español
+2056055231,12/29/18 11:50,4376379966,12/29/18 11:49,FALSE,clixsense,0.3792,969,VEN,23,Ciudad Ojeda,,2534,intermediate,female,a_few_times_a_week,español,,college_degree_or_equivalent,español
+2056055231,12/29/18 11:58,4376386832,12/29/18 11:57,FALSE,clixsense,0.2487,234,UKR,12,Kiev,,4554,expertfluent,female,a_few_times_a_month,Ukrainian,,graduate_degree,"Ukrainian, Russian, Spanish"
+2056055231,12/29/18 13:33,4376488119,12/29/18 13:22,FALSE,clixsense,0.3949,904,UKR,12,Kiev,,2534,intermediate,female,every_day,Ukrainian,,graduate_degree,"Ukrainian, Polish, English, Russian"
+2056055231,12/29/18 14:08,4376535726,12/29/18 14:06,FALSE,instagc,0.37,588,MDA,82,Orhei,,2534,intermediate,male,every_day,romanian,,high_school_secondary_school_or_equivalent,"romanian, english, russian"
+2056055231,12/29/18 14:12,4376541526,12/29/18 14:12,FALSE,instagc,0.2321,503,USA,NY,Fulton,,3544,expertfluent,female,a_few_times_a_month,english,,high_school_secondary_school_or_equivalent,english
+2056055231,12/29/18 15:41,4376666200,12/29/18 15:40,FALSE,instagc,0.3366,383,USA,NH,Amherst,,2534,advanced,male,a_few_times_a_month,English,,college_degree_or_equivalent,English
+2056055231,12/29/18 15:53,4376682179,12/29/18 15:52,FALSE,clixsense,0.3349,69,PHL,A2,Bacolod City,,3544,expertfluent,female,a_few_times_a_week,Filipino,,college_degree_or_equivalent,English
+2056055231,12/29/18 16:16,4376716912,12/29/18 16:13,FALSE,neodev,0.4095,360,VEN,7,Valencia,,2534,intermediate,male,a_few_times_a_week,spanish,,college_degree_or_equivalent,spanish
+2056055231,12/29/18 16:49,4376773901,12/29/18 16:44,FALSE,elite,0.3576,881,VEN,23,Maracaibo,,4554,intermediate,female,a_few_times_a_week,Spanish,,college_degree_or_equivalent,Spanish
+2056055231,12/29/18 17:08,4376800672,12/29/18 17:07,FALSE,elite,0.2674,685,JAM,8,Kingston,,1824,advanced,female,every_day,English,,high_school_secondary_school_or_equivalent,English
+2056055231,12/29/18 17:26,4376829394,12/29/18 17:25,FALSE,elite,0.3494,743,JAM,8,Kingston,,3544,intermediate,female,a_few_times_a_year,English,,college_degree_or_equivalent,English
+2056055231,12/29/18 18:57,4376940957,12/29/18 18:54,FALSE,clixsense,0.3182,581,RUS,60,Pskov,,2534,beginner,female,a_few_times_a_week,russian,,graduate_degree,russian
+2056055231,12/29/18 19:08,4376954531,12/29/18 19:07,FALSE,neodev,0.3124,756,VEN,23,Ciudad Ojeda,,1824,expertfluent,female,every_23_days,spanish,,college_degree_or_equivalent,"english, spanish"
+2056055231,12/29/18 19:15,4376962560,12/29/18 19:13,FALSE,neodev,0.3511,713,VEN,25,Caracas,,2534,beginner,female,a_few_times_a_week,spanish,,college_degree_or_equivalent,spanish
+2056055231,12/29/18 20:15,4377030708,12/29/18 20:12,FALSE,elite,0.3736,374,MYS,14,Kuala Lumpur,,2534,advanced,male,every_23_days,malay and english,,college_degree_or_equivalent,english
+2056055231,12/29/18 21:04,4377098010,12/29/18 20:51,FALSE,neodev,0.4065,148,VEN,,,,2534,intermediate,male,every_day,Spanish,,graduate_degree,Spanish and English
+2056055231,12/29/18 23:31,4377264515,12/29/18 23:25,FALSE,elite,0.3677,264,VEN,25,Caracas,,3544,advanced,male,a_few_times_a_week,Español,,college_degree_or_equivalent,Español
+2056055231,12/30/18 0:05,4377291755,12/30/18 0:04,FALSE,instagc,0.2681,970,USA,NY,New York,,4554,expertfluent,female,every_day,English,,high_school_secondary_school_or_equivalent,English
+2056055231,12/30/18 2:54,4377482545,12/30/18 2:52,FALSE,elite,0.4063,971,VEN,,,,3544,intermediate,male,a_few_times_a_week,Spanish,,college_degree_or_equivalent,Spanish
+2056055231,12/30/18 4:32,4377615978,12/30/18 4:31,FALSE,prodege,0.3146,521,AUS,1,Canberra,,4554,expertfluent,female,every_day,English,,graduate_degree,English
+2056055231,12/30/18 9:39,4377996684,12/30/18 9:37,FALSE,elite,0.2701,614,SRB,,,,prefer_not_to_state,advanced,female,a_few_times_a_week,serbian,,graduate_degree,"serbian, english"
+2056055231,12/30/18 11:30,4378096018,12/30/18 11:27,FALSE,neodev,0.3551,570,VEN,23,Lagunillas,,3544,beginner,male,every_23_days,español,,college_degree_or_equivalent,español
+2056055231,12/30/18 12:02,4378118756,12/30/18 12:00,FALSE,clixsense,0.2828,620,IND,,,,3544,expertfluent,female,a_few_times_a_year,"Hindi, Bengali",,graduate_degree,english. Hindi. Bengali
+2056055231,12/30/18 13:01,4378173012,12/30/18 13:00,FALSE,prodege,0.378,315,CAN,ON,Windsor,,3544,expertfluent,female,every_day,English,,college_degree_or_equivalent,English
+2056055231,12/30/18 13:14,4378183078,12/30/18 13:12,FALSE,clixsense,0.3545,9,BGD,87,Uttara,,1824,advanced,male,every_day,"English,Bangla",,college_degree_or_equivalent,English
+2056055231,12/30/18 14:13,4378246113,12/30/18 14:12,FALSE,elite,0.4059,520,VEN,25,Caracas,,2534,intermediate,male,a_few_times_a_week,Spanish,,college_degree_or_equivalent,spanish
+2056055231,12/30/18 14:16,4378249657,12/30/18 14:16,FALSE,elite,0.3748,548,VEN,25,Caracas,,2534,advanced,male,every_23_days,spanish,,college_degree_or_equivalent,spanish
+2056055231,12/30/18 16:56,4378426986,12/30/18 16:53,FALSE,neodev,0.2673,63,VEN,13,Barquisimeto,,1824,expertfluent,female,every_day,Spanish,,high_school_secondary_school_or_equivalent,"English, spanish, french"
+2056055231,12/30/18 17:22,4378457969,12/30/18 17:19,FALSE,neodev,0.2248,696,VEN,18,Araure,,prefer_not_to_state,beginner,male,every_day,Spanish,,prefer_not_to_state,Spanish
+2056055231,12/31/18 3:18,4379250776,12/31/18 3:16,FALSE,instagc,0.2509,738,USA,MI,Spring Lake,,5564,advanced,female,every_day,English,,high_school_secondary_school_or_equivalent,English
+2056055231,12/31/18 11:10,4379765726,12/31/18 11:09,FALSE,neodev,0.3963,607,VEN,,,,2534,expertfluent,male,every_day,SPanish,,college_degree_or_equivalent,English
+2056055231,12/31/18 12:32,4379848138,12/31/18 12:31,FALSE,clixsense,0.3407,972,VEN,,,,5564,intermediate,male,every_23_days,spanish,,college_degree_or_equivalent,spanish
+2056055231,12/31/18 12:39,4379855559,12/31/18 12:37,FALSE,neodev,0.3284,625,VEN,15,Agua Fria,,2534,beginner,male,a_few_times_a_month,español,,college_degree_or_equivalent,español
+2056055231,12/31/18 13:18,4379905193,12/31/18 13:15,FALSE,neodev,0.3291,589,VEN,6,Puerto Ordaz,,1824,beginner,male,every_23_days,Spanish,,college_degree_or_equivalent,English
+2056055231,12/31/18 13:33,4379926298,12/31/18 13:31,FALSE,elite,0.34,602,VEN,6,Puerto Ordaz,,3544,intermediate,female,a_few_times_a_week,Spanish,,graduate_degree,"Spanish, English"
+2056055231,12/31/18 13:33,4379926924,12/31/18 13:31,FALSE,clixsense,0.2786,579,VEN,6,Puerto Ordaz,,2534,beginner,female,every_23_days,Spanish,,high_school_secondary_school_or_equivalent,"Spanish, English"
+2056055231,12/31/18 15:46,4380119612,12/31/18 15:44,FALSE,elite,0.3044,381,RUS,71,Yekaterinburg,,5564,advanced,male,every_day,russian,,graduate_degree,"russian, English"
+2056055231,1/1/19 7:13,4381240344,1/1/19 7:12,FALSE,clixsense,0.293,672,BGR,42,Sofia,,3544,beginner,male,a_few_times_a_month,bulgarian,,graduate_degree,bulgarian
+2056055231,1/1/19 9:44,4381387492,1/1/19 9:41,FALSE,wannads,0.2817,944,EGY,,,,4554,advanced,female,a_few_times_a_year,Arabic,,college_degree_or_equivalent,"Arabic , English"
+2056055231,1/1/19 17:55,4382107758,1/1/19 17:52,FALSE,elite,0.3138,718,VEN,4,Las Tejerías,,1824,beginner,female,a_few_times_a_week,español,,college_degree_or_equivalent,español
+2056055231,1/1/19 18:59,4382221252,1/1/19 18:58,FALSE,neodev,0.3863,877,VEN,25,Caracas,,2534,advanced,female,every_day,spanish,,college_degree_or_equivalent,spanish
+2056055231,1/1/19 20:01,4382336951,1/1/19 20:00,FALSE,elite,0.3576,905,VEN,4,Las Tejerías,,1824,beginner,male,every_day,español,,college_degree_or_equivalent,español
+2056055231,1/2/19 4:15,4383133220,1/2/19 4:14,FALSE,clixsense,0.3176,290,ARE,3,Dubai,,2534,intermediate,female,a_few_times_a_month,Konkani,,graduate_degree,English
+2056055231,1/2/19 6:24,4383328413,1/2/19 6:23,FALSE,elite,0.2267,932,VEN,7,Valencia,,1824,beginner,male,a_few_times_a_month,Español,,high_school_secondary_school_or_equivalent,español
+2056055231,1/2/19 13:36,4383986731,1/2/19 13:35,FALSE,elite,0.2182,710,VEN,25,Caracas,,_18_years,beginner,female,every_23_days,castellano,,high_school_secondary_school_or_equivalent,english
+2056055231,1/2/19 14:40,4384132382,1/2/19 14:37,FALSE,neodev,0.3984,692,VEN,20,San Cristóbal,,2534,advanced,male,every_day,Spanish,,college_degree_or_equivalent,english and spanish
+2056055231,1/2/19 14:57,4384174839,1/2/19 14:56,FALSE,neodev,0.3577,103,VEN,7,Valencia,,2534,expertfluent,male,every_day,"Spanish, English, Portuguese",,graduate_degree,"Spanish, English, Portuguese"
+2056055231,1/2/19 14:58,4384175478,1/2/19 14:56,FALSE,neodev,0.2935,17,IND,13,Malappuram,,3544,advanced,male,a_few_times_a_year,"english, hindi",,graduate_degree,english
+2056055231,1/2/19 16:22,4384348889,1/2/19 16:20,FALSE,elite,0.224,973,BIH,1,Sarajevo,,1824,expertfluent,prefer_not_to_state,every_23_days,English,,college_degree_or_equivalent,"English, Bosnian"
+2056055231,1/2/19 20:06,4384885904,1/2/19 20:03,FALSE,elite,0.3079,564,VEN,13,Barquisimeto,,5564,beginner,male,a_few_times_a_week,Spanish,,college_degree_or_equivalent,Spanish
+2056055231,1/2/19 20:45,4385012735,1/2/19 20:40,FALSE,elite,0.2441,808,VEN,13,Barquisimeto,,4554,beginner,female,a_few_times_a_week,Spanish,,high_school_secondary_school_or_equivalent,Spanish
+2056055231,1/3/19 16:33,4387779255,1/3/19 16:28,FALSE,neodev,0.3953,636,VEN,,,,2534,intermediate,male,every_23_days,spanish,,college_degree_or_equivalent,"english, spanish"
+2056055231,1/3/19 16:54,4387841135,1/3/19 16:39,FALSE,neodev,0.3457,655,VEN,,,,1824,intermediate,female,a_few_times_a_week,Spanish,,college_degree_or_equivalent,Spanish
+2056055231,1/3/19 17:12,4387894878,1/3/19 17:09,FALSE,clixsense,0.3892,617,VEN,13,Barquisimeto,,1824,intermediate,male,every_day,spanish,,college_degree_or_equivalent,spanish and english
+2056055231,1/3/19 18:40,4388155796,1/3/19 18:39,FALSE,elite,0.2931,954,VEN,25,Caracas,,1824,beginner,male,every_day,español,,high_school_secondary_school_or_equivalent,ingles
+2056055231,1/3/19 20:40,4388505256,1/3/19 20:37,FALSE,clixsense,0.3515,267,RUS,61,Rostov-on-don,,4554,intermediate,male,every_day,Russian,,graduate_degree,Russian
+2056055231,1/4/19 14:15,4391409388,1/4/19 14:13,FALSE,neodev,0.3534,817,VEN,4,Maracay,,2534,beginner,female,a_few_times_a_week,español,,college_degree_or_equivalent,español
+2056055231,1/4/19 17:59,4392062538,1/4/19 17:54,FALSE,neodev,0.4015,974,,,,,2534,intermediate,male,a_few_times_a_week,Spanish,,college_degree_or_equivalent,Spanish
+2056055231,1/4/19 22:21,4392782606,1/4/19 22:20,FALSE,elite,0.403,312,BIH,1,Sarajevo,,2534,intermediate,male,every_23_days,Bosnian,,college_degree_or_equivalent,Bosnian
+2056055231,1/5/19 17:54,4395385251,1/5/19 17:53,FALSE,neodev,0.3221,605,VEN,,,,3544,expertfluent,female,every_day,"Spanish, English",,graduate_degree,"English, Spanish"
+2056055231,1/5/19 19:38,4395631774,1/5/19 19:35,FALSE,elite,0.365,212,SVN,61,Ljubljana,,2534,advanced,male,every_day,Slovene,,graduate_degree,English
+2056055231,1/6/19 7:42,4396699241,1/6/19 7:41,FALSE,clixsense,0.4116,294,RUS,51,Nizhniy Novgorod,,2534,intermediate,female,every_day,русский,,college_degree_or_equivalent,русский
+2056055231,1/7/19 14:41,4399971642,1/7/19 14:38,FALSE,neodev,0.3007,931,VEN,7,Valencia,,_18_years,beginner,male,every_day,spañol,,graduate_degree,spañol
+2056055231,1/7/19 14:43,4399978955,1/7/19 14:42,FALSE,elite,0.2957,547,VEN,25,Caracas,,1824,intermediate,male,every_23_days,spanish,,high_school_secondary_school_or_equivalent,spanish
+2056055231,1/8/19 23:40,4406790460,1/8/19 23:37,FALSE,elite,0.3504,623,VEN,,,,1824,intermediate,female,a_few_times_a_week,Spanish,,college_degree_or_equivalent,Spanish
+2056055231,1/9/19 3:08,4407231396,1/9/19 3:04,FALSE,neodev,0.3,662,VEN,25,Caracas,,1824,advanced,male,every_day,spanish,,high_school_secondary_school_or_equivalent,"spanish, english"
+2056055231,1/9/19 3:19,4407255512,1/9/19 3:11,FALSE,clixsense,0.3678,364,PHL,D9,Manila,,2534,expertfluent,male,every_23_days,English,,college_degree_or_equivalent,English
+2056055231,1/9/19 21:14,4410353740,1/9/19 21:04,FALSE,neodev,0.2528,277,VEN,7,Valencia,,1824,beginner,female,every_23_days,Spanish,,high_school_secondary_school_or_equivalent,Spanish
+2056055231,1/9/19 23:33,4410778393,1/9/19 23:31,FALSE,elite,0.3614,671,COL,2,Medellin,,3544,advanced,male,every_23_days,spanish,,college_degree_or_equivalent,english
+2056055231,1/11/19 8:10,4416486957,1/11/19 8:10,FALSE,clixsense,0.3438,517,SRB,,,,3544,expertfluent,male,every_day,Serbian,,graduate_degree,"Serbian, English"
+2056055231,1/13/19 10:52,4422804668,1/13/19 10:50,FALSE,neodev,0.2993,568,VEN,23,Maracaibo,,4554,prefer_not_to_state,female,every_day,español,,college_degree_or_equivalent,español
+2056055231,1/13/19 23:26,4424084107,1/13/19 23:24,FALSE,clixsense,0.3689,975,VEN,25,Caracas,,3544,intermediate,female,every_23_days,spanish,,college_degree_or_equivalent,spanish
+2056055231,1/14/19 5:45,4424597723,1/14/19 5:43,FALSE,test_rprocess,0.3101,701,IND,,,,1824,advanced,male,every_23_days,kannada,,graduate_degree,english
+2056055231,1/15/19 0:54,4427490955,1/15/19 0:51,FALSE,neodev,0.3133,725,VEN,25,Caracas,,1824,intermediate,female,a_few_times_a_week,Español,,graduate_degree,español
+2056055231,1/15/19 1:08,4427525104,1/15/19 1:07,FALSE,elite,0.2967,829,VEN,13,Cabudare,,1824,expertfluent,male,every_day,Español,,high_school_secondary_school_or_equivalent,Español
+2056055231,1/16/19 3:21,4431839076,1/16/19 3:19,FALSE,elite,0.2276,798,VEN,,,,1824,intermediate,male,never,español,,prefer_not_to_state,español
+2056055231,1/16/19 12:29,4432846633,1/16/19 12:27,FALSE,elite,0.3359,595,IND,39,Roorkee,,2534,advanced,male,a_few_times_a_week,Hindi,,graduate_degree,English
+2056055231,1/16/19 13:50,4432985173,1/16/19 13:48,FALSE,clixsense,0.3545,142,IND,13,Malappuram,,3544,advanced,male,every_day,english,,graduate_degree,English
+2056055231,1/16/19 15:17,4433136845,1/16/19 15:14,FALSE,neodev,0.2826,357,VEN,25,Caracas,,1824,intermediate,female,a_few_times_a_week,Spanish,,high_school_secondary_school_or_equivalent,English
