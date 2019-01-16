@@ -8,11 +8,11 @@ The scripts run under Python 2.7 unless otherwise noted.
 # What’s Here
 
 
-## raw data compressed
+## raw data 
 - this folder contains compressed csvs for the anonymized crowdsourcing results for the Style Similarity Dataset.
 - the numbers in the name of each CSV correspond to the table below.  
 
-## cleaned data compressed
+## cleaned data 
 - this folder contains compressed  csvs containing “good faith” responses, and are the result of running  f8\_clean\_bad\_rows.py  
 - the numbers in the name of each CSV correspond to the table below. 
 
