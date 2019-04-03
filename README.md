@@ -51,7 +51,7 @@ For example, Corpus 1 draws excerpts from 105 texts, each excerpt will be the an
 
 The quantity of good faith responses varies between the triplet corpuses.  Corpuses 1, 2, 4 and 5 paid participants immediately for responses, while corpuses 3, 6, and 7 used a "bonusing" approach where participants were paid a small amount up front, and then paid extra if the response was found to be reasonable.  Bonusing seems to have encouraged a higher percentage of good faith responses. 
 
-|  Corpus | Texts  | Excerpts per Text  |  Excerpts |  Excerpts include quotes? | Anchors | Triplets | Collected Judgments | Good-Faith Judgments | Good-Faith Yield | High-Agreement Triplets |
+|  Corpus | Texts  | Excerpts per Text  |  Excerpts *(Texts x Excerpts per text)* |  Excerpts include quotes? | Number of times an excerpt is used as an Anchor | Triplets *(Excerpts x Anchors)* | Collected Judgments | Good-Faith Judgments | Good-Faith Yield *(good-faith / collected)* | High-Agreement Triplets |
 |---|---|---|---|---|---|---|---|---|---|---|
 |1 | 105 | 2 | 210 | None | 15 | 3150 | 21375 | 3741 | 18% | 240 | 
 |2 | 315 | 2 | 630 |  None | 5 | 3150  | 22050 | 2985 | 14% | 118 | 
