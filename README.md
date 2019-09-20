@@ -63,3 +63,24 @@ The quantity of good faith responses varies between the triplet corpuses.  Corpu
 |Total  | 798 | -  | 1806 | - | -  | 21,630 | 150,720 | 66,061 | 44% | 5,162 | 
 
 Parameters of corpus generation (columns 2 - 7 section) and collection results (columns 8 - 11). 2-4 excerpts were extracted from each text. Texts were split evenly among genres. Each excerpt is approximately 200 words long, extended to a sentence break. "Anchors" indicates how many times each excerpt is the anchor of a triplet. 7 judgments are collected per triplet, then cleaned to produce good-faith judgments. High agreement triplets are calculated as those in which 3 more judgments are one answer than the other; see paper section "Modeling Style with the Similarity Dataset" for more detail.
+
+************
+
+# Task Training
+
+At the beginning of the crowdsourcing task, participants were shown an example of a stylistic comparison, and given the following instructions and refresher on some of the concepts that go into literary style:
+
+- *Style:* The "style" of the piece is the way that the author uses words – the author’s word-choice, sentence structure, figurative language, and sentence arrangement. It is NOT the mood or the meaning of the text. Imagine if 3 people wrote the exact same story with the exact same meaning and plot - the differences are the "style" or "feel".
+- *What contributes to feel?* This is not a complete list, but you can think about literary techniques such as:
+	- sentence structure
+	- pace
+	- rhythm
+	- vocabulary
+	- figures of speech
+	- point of view
+	- tone
+	- alliteration, assonance, etc.
+	- allusions
+(http://teachers.lakesideschool.org/us/english/ErikChristensen/WRITING%20STRATEGIES/LiteraryStyles.htm)
+- *What if it’s unclear?* Go with your gut. Some of these comparisons may have multiple good answers, or you may feel that neither of B nor C is very similar to A. You can express the amount of similarity in the ranking question of "how similar is your choice to A."
+- *For more information*: More examples and discussion of 'style' or 'feel' can be found at the following link if you need more guidance: https://literaryterms.net/style/
