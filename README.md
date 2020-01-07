@@ -135,7 +135,7 @@ We created a binary classifier trained with a binary cross entropy loss function
 We pre-process each excerpt in the triplet into sequences of characters, sequences of parts of speech (using [Spacy](https://spacy.io/), and sequences of word embeddings (Stanford GloVe). 
 These transformations are motivated by features canonically used in stylometric work: character n-grams, syntactic features (which depend on parts of speech), and lexical features (which depend on the words themselves). The neural net then operates on the sequences independently. An LSTM is used for parts of speech, and separate convolutional nets are used for characters and embeddings. After processing, the output vectors are recombined into a single vector of length 48 that represents each excerpt. A modified L2 norm of these vectors is used to calculate the distances between A and B, and A and C, which determines the final classification. 
 
-![diagram of the neural net](machinelearningmodeldiagram.png)
+<img alt="diagram of neural net" src="https://github.com/style-dataset/style-dataset/blob/master/imgs/ml_flow.png" width="400">
 
 We use [Keras](https://keras.io/) to build our model, and an outline of the model code is below: 
 
