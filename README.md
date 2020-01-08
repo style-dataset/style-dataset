@@ -4,7 +4,7 @@
 
 CHI 2020
 
-[Full paper]()
+[Full paper](https://doi.org/10.1145/3313831.3376730)
 
 In this repository you will find the supplemental materials and the full “Style Similarity Dataset” for this paper. 
 
